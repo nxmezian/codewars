@@ -10,3 +10,8 @@ def remove_exclamation_marks(s):
             new_sentence += i
 
     return new_sentence
+    
+   
+# s.replace function
+#def remove_exclamation_marks(s):
+    #return s.replace('!', '')
